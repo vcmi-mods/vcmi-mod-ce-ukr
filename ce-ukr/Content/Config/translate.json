@@ -1,0 +1,92 @@
+// This file contains all translateable strings added in VCMI
+{
+	"adventureMap":
+	{
+		"monsterThreat" :
+		{
+			"title" : "\n\n Сила загону: ",
+			"levels" :
+			[
+				"Безсилий",
+				"Дуже слабкий",
+				"Слабкий",
+				"Трохи слабша",
+				"Відповідна",
+				"Трохи сильніша",
+				"Сильніша",
+				"Дуже сильна",
+				"Кидає виклик",
+				"Нездоланна",
+				"Смертельна",
+				"Неможлива"
+			]
+		},
+		"playerAttacked" : "Гравця атаковано: %s"
+	},
+	"systemOptions" :
+	{
+		"fullscreenButton" :
+		{
+			"label" : "Режим на весь екран",
+			"help"  : "{Режим на весь екран}\n\n Якщо обрано, VCMI буде запускатися в режимі на весь екран, інакше — віконний режим"
+		},
+		"resolutionButton" :
+		{
+			"label" : "Розширення екрану",
+			"help"  : "{Розширення екрану}\n\n Зміна розширення екрану в грі. Аби зміни набули чинності необхідно перезавантажити гру."
+		},
+		"resolutionMenu" :
+		{
+			"label" : "Обрати розширення екрану",
+			"help" : "Змінити розширення екрану в грі."
+		}
+	},
+	"townHall" :
+	{
+		"missingBase" : "Спочатку необхідно звести початкову будівлю: %s"
+	},
+	"logicalExpressions" :
+	{
+		"anyOf"  :  "Будь-що з перерахованого:",
+		"allOf"  :  "Все з перерахованого:",
+		"noneOf" : "Нічого з перерахованого:"
+	},
+  "heroWindow": 
+  {
+    "openCommander": 
+    {
+      "label": "Відкрити вікно командира",
+      "help": "Показує інформацію про командира героя"
+    }
+  },
+  "commanderWindow": 
+  {
+    "artifactMessage": "Бажаєте передати цей артефакт герою?"
+  },
+	"creatureWindow" :
+	{
+		"showBonuses" :
+		{
+			"label" : "Switch to bonuses view",
+			"help" : "Displays all active bonuses of the commander"
+		},
+		"showSkills" :
+		{
+			"label" : "Switch to skills view",
+			"help" : "Displays all learned skills of the commander"
+		},
+		"returnArtifact" :
+		{
+			"label" : "Give back artifact",
+			"help" : "Use this button to return stack artifact back into hero backpack"
+		}
+	},
+	"questLog" :
+	{
+		"hideComplete" :
+		{
+			"label" : "Приховати завершені квести",
+			"help" : "Приховує всі квести, які вже мають стан виконаних"
+		}
+	}
+}

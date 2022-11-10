@@ -1,0 +1,187 @@
+Титри
+"{Створив:}
+Jon Van Caneghem
+
+
+
+{Виконавчий продюсер:}
+Mark Caldwell
+
+
+
+{Продюсер:}
+Jeff Blattner
+
+
+
+{Директор:}
+David Mullich
+
+
+{Дизайнери:}
+Jennifer Bullard
+Jon Van Caneghem
+
+
+{Ведучі програмісти:}
+John Bolton (ROE)
+David Richey (SOD)
+Gus Smedstad (AB)
+
+
+{Програмісти:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+
+
+{Installer Programmer:}
+Riki Corredera
+
+
+{Ведучі художники:}
+Bonita Long-Hemsath (AB)
+Joseph McGuffin (SOD)
+Phelan Sykes (ROE)
+
+
+{Художники:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Eric Newman
+John Slowsky
+Bill Stoneham
+Kenneth Thomson, Jr.
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Розпорядник фондів:}
+Jack Russell
+
+
+{Дизайнери рівнів:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Marcus Pregent
+Terry Ray
+Christian Vanouver
+Lisa Whitman
+Michael Wolf
+
+
+{Музичний продюсер:}
+Rob King
+
+
+{Мелодії міст:}
+Paul Romero
+
+
+{Музика:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Sound Design:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Постановка голосів:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Ролі озвучували:}
+Mark Arnott
+Mari Devon
+Aric Devone
+Danny Fehsenfield
+Lex Lang
+Wendee Lee
+Mona Marshall
+Laird McCintosh
+
+
+{Головний Випробувач:}
+Karl Drown
+
+
+{Senior Tester:}
+Ernie Gallardo
+
+
+{Випробувачі:}
+Jeff Abney
+Edward Campos
+Michael Dallenbach
+Robert Scarpato
+Clifton Webster
+Eric Williamson
+
+
+{Особлива подяка:}
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+
+
+{Завітайте на наш веб-сайт:}
+www.3do.com
+
+
+{Локалізація від Hurtom Localize Team}
+
+
+{Керівник проекту:}
+Медихронал
+
+
+{Технічна частина:}
+Медихронал
+
+
+{Перекладачі:}
+Lesya_24
+doomsday.ua
+bodyanuch
+Медихронал
+
+
+{Технічне й художнє редагування:}
+Медихронал
+
+
+{Дизайнер:}
+thefir
+
+
+{Особлива подяка:}
+Shkval
+Alexander Karpeko
+
+{Завітайте на наш веб-сайт:}
+www.hurtom.com
+"
+"Copyright 2000 The 3DO Company.  All Rights Reserved.  3DO, Heroes, Heroes of Might and Magic, Armageddon's Blade, Shadow of Death, New World Computing, and their respective logos, are trademarks and/or service marks of The 3DO Company in the U.S. and other countries.  All other trademarks belong to their respective owners."
