@@ -11,6 +11,10 @@
 		"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition"
 	},
 	
+	"compatibility" : {
+		"min" : "1.2"
+	},
+	
 	"language" : "ukrainian",
 	"translations" : [
 		"config/vcmi-mod-ce-ukr/game.json",
