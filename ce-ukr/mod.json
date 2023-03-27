@@ -1,10 +1,24 @@
 {
-	"name" : "Complete Edition: Ukrainian translation",
-	"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition",
+	"name" : "Ukrainian translation",
+	"description" : "Ukrainian translation of Heroes of Might and Magic III: Complete Edition",
 	"modType" : "Translation",
-	"version" : "1.0.1",
+	"version" : "1.2.0",
 	"author" : "olexn",
 	"contact" : "https://toloka.to/u59021",
-	"keepDisabled" : true,
-
+	
+	"ukrainian" : {
+		"name" : "Український переклад",
+		"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition"
+	},
+	
+	"compatibility" : {
+		"min" : "1.2"
+	},
+	
+	"language" : "ukrainian",
+	"translations" : [
+		"config/vcmi-mod-ce-ukr/game.json",
+		"config/vcmi-mod-ce-ukr/maps.json",
+		"config/vcmi-mod-ce-ukr/campaigns.json"
+	]
 }
