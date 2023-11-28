@@ -2,12 +2,13 @@
 	"name" : "Ukrainian translation",
 	"description" : "Ukrainian translation of Heroes of Might and Magic III: Complete Edition",
 	"modType" : "Translation",
-	"version" : "1.2.0",
-	"author" : "olexn",
-	"contact" : "https://toloka.to/u59021",
+	"version" : "1.4",
+	"author" : "translation: Localize Team Hurtom, VCMI port: Ivan",
+	"contact" : "https://vcmi.eu/",
 	
 	"ukrainian" : {
 		"name" : "Український переклад",
+		"author" : "Переклад: Localize Team Hurtom, VCMI версія: Ivan",
 		"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition"
 	},
 	
