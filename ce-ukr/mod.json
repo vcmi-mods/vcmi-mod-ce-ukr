@@ -2,9 +2,17 @@
 	"name" : "Ukrainian translation",
 	"description" : "Ukrainian translation of Heroes of Might and Magic III: Complete Edition",
 	"modType" : "Translation",
-	"version" : "1.4.2",
+	"version" : "1.4.3",
 	"author" : "translation: Localize Team Hurtom, VCMI port: Ivan",
 	"contact" : "https://vcmi.eu/",
+	
+	"changelog" : {
+		"1.4.3" : [
+			"Виправлена велика кількість помилок у описах спеціалізацій героїв",
+			"Назви деяких міст тепер перекладені, а не транслітеровані",
+			"Halflings тепер звуться полуросликами, а не халфінгами"
+		]
+	},
 	
 	"ukrainian" : {
 		"name" : "Український переклад",
