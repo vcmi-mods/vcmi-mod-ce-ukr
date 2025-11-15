@@ -1,0 +1,12 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Fabrice TIERCELIN",
+	"contact" : "https://github.com/Fabrice-TIERCELIN",
+	"language" : "ukrainian",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-ukrainian-ai/chronicles.json"
+	]
+}
