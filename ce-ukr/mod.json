@@ -2,15 +2,19 @@
 	"name" : "Ukrainian translation",
 	"description" : "Ukrainian translation of Heroes of Might and Magic III: Complete Edition",
 	"modType" : "Translation",
-	"version" : "1.4.4",
+	"version" : "1.4.5",
 	"author" : "translation: Localize Team Hurtom, VCMI port: Ivan",
 	"contact" : "https://vcmi.eu/",
 	
 	"changelog" : {
+		"1.4.5" : [
+			"Додано переклад Хронік Героїв",
+			"Вилучено шрифти з моду на користь вбудованих шрифтів VCMI"
+		],
 		"1.4.4" : [
 			"Виправлено описи кузні у містах",
 			"Виправлено назви деяких міст",
-			"полурослики -> напіврослики",
+			"полурослики -> напіврослики"
 		],
 		"1.4.3" : [
 			"Виправлена велика кількість помилок у описах спеціалізацій героїв",
