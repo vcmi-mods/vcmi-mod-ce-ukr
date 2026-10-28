@@ -2,11 +2,14 @@
 	"name" : "Ukrainian translation",
 	"description" : "Ukrainian translation of Heroes of Might and Magic III: Complete Edition",
 	"modType" : "Translation",
-	"version" : "1.4.6",
+	"version" : "1.5.0",
 	"author" : "translation: Localize Team Hurtom, VCMI port: Ivan",
 	"contact" : "https://vcmi.eu/",
 
 	"changelog" : {
+		"1.5.0" : [
+			"Додано переклад Хронік Героїв від Asturiel"
+		],
 		"1.4.6" : [
 			"Виправлено назви деяких міст",
 			"Перейменовано фракцію Колонія на Злиття Стихій"
@@ -40,6 +43,7 @@
 	"language" : "ukrainian",
 	"translations" : [
 		"config/vcmi-mod-ce-ukr/game.json",
+		"config/vcmi-mod-ce-ukr/chronicles.json",
 		"config/vcmi-mod-ce-ukr/maps.json",
 		"config/vcmi-mod-ce-ukr/campaigns.json"
 	]
